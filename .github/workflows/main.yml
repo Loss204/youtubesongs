@@ -1,0 +1,5 @@
+            - name: YouTube songs
+  # You may pin to the exact commit or the version.
+  # uses: kubawerlos/youtube-songs@c7a7a2466e54a1ac574e2b2597f1b9ed0476737d
+  uses: kubawerlos/youtube-songs@v1
+          
